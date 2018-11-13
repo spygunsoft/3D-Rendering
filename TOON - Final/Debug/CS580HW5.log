@@ -1,0 +1,159 @@
+﻿cl : Command line warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+  StdAfx.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afx.h(33): note: see declaration of 'MBCS_Support_Deprecated_In_MFC'
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+cl : Command line warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+  Application.cpp
+  Application5.cpp
+Application5.cpp(101): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+Application5.cpp(101): warning C4305: 'initializing': truncation from 'double' to 'float'
+Application5.cpp(109): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+Application5.cpp(109): warning C4305: 'initializing': truncation from 'double' to 'float'
+Application5.cpp(133): warning C4305: '=': truncation from 'double' to 'float'
+Application5.cpp(134): warning C4305: '=': truncation from 'double' to 'float'
+Application5.cpp(137): warning C4305: '=': truncation from 'double' to 'float'
+Application5.cpp(141): warning C4305: '=': truncation from 'double' to 'float'
+Application5.cpp(156): warning C4305: '=': truncation from 'double' to 'float'
+Application5.cpp(165): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+Application5.cpp(165): warning C4305: 'initializing': truncation from 'double' to 'float'
+Application5.cpp(166): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+Application5.cpp(166): warning C4305: 'initializing': truncation from 'double' to 'float'
+Application5.cpp(167): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+Application5.cpp(167): warning C4305: 'initializing': truncation from 'double' to 'float'
+Application5.cpp(168): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+Application5.cpp(168): warning C4305: 'initializing': truncation from 'double' to 'float'
+Application5.cpp(171): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+Application5.cpp(171): warning C4305: 'initializing': truncation from 'double' to 'float'
+Application5.cpp(173): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+Application5.cpp(173): warning C4305: 'initializing': truncation from 'double' to 'float'
+Application5.cpp(61): warning C4101: 'shaderType': unreferenced local variable
+Application5.cpp(296): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+Application5.cpp(303): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+Application5.cpp(314): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Application5.cpp(315): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Application5.cpp(321): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Application5.cpp(327): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Application5.cpp(347): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+Application5.cpp(355): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Application5.cpp(356): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Application5.cpp(362): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Application5.cpp(368): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+  CS580HW.cpp
+CS580HW.cpp(58): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afxwin.h(5224): note: see declaration of 'CWinApp::Enable3dControls'
+  CS580HWDoc.cpp
+  CS580HWView.cpp
+  disp.cpp
+disp.cpp(67): warning C4305: '=': truncation from 'int' to 'float'
+disp.cpp(148): warning C4244: '=': conversion from 'GzIntensity' to 'char', possible loss of data
+disp.cpp(149): warning C4244: '=': conversion from 'GzIntensity' to 'char', possible loss of data
+disp.cpp(150): warning C4244: '=': conversion from 'GzIntensity' to 'char', possible loss of data
+  MainFrm.cpp
+  rend.cpp
+rend.cpp(89): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(112): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(127): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+rend.cpp(143): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+rend.cpp(151): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(196): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(205): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+rend.cpp(211): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+rend.cpp(274): warning C4244: '=': conversion from 'float' to 'GzDepth', possible loss of data
+rend.cpp(295): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+rend.cpp(302): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+rend.cpp(308): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+rend.cpp(376): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(389): warning C4101: 'textureColor': unreferenced local variable
+rend.cpp(452): warning C4101: 'textureColor': unreferenced local variable
+rend.cpp(509): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+rend.cpp(588): warning C4305: '=': truncation from 'double' to 'float'
+rend.cpp(594): warning C4305: '=': truncation from 'double' to 'float'
+rend.cpp(595): warning C4305: '=': truncation from 'double' to 'float'
+rend.cpp(603): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+rend.cpp(603): warning C4305: 'initializing': truncation from 'double' to 'float'
+rend.cpp(609): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(643): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+rend.cpp(648): warning C4305: 'initializing': truncation from 'double' to 'float'
+rend.cpp(649): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+rend.cpp(687): warning C4305: '=': truncation from 'double' to 'float'
+rend.cpp(688): warning C4305: '=': truncation from 'double' to 'float'
+rend.cpp(689): warning C4305: '=': truncation from 'double' to 'float'
+rend.cpp(690): warning C4305: '=': truncation from 'double' to 'float'
+rend.cpp(693): warning C4305: '=': truncation from 'double' to 'float'
+rend.cpp(694): warning C4305: '=': truncation from 'double' to 'float'
+rend.cpp(695): warning C4305: '=': truncation from 'double' to 'float'
+rend.cpp(696): warning C4305: '=': truncation from 'double' to 'float'
+rend.cpp(699): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+rend.cpp(700): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+rend.cpp(710): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+rend.cpp(711): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+rend.cpp(720): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+rend.cpp(723): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+rend.cpp(724): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+rend.cpp(728): warning C4305: '-=': truncation from 'double' to 'float'
+rend.cpp(586): warning C4101: 'ambientColor': unreferenced local variable
+rend.cpp(783): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+rend.cpp(784): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+rend.cpp(788): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+rend.cpp(790): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+rend.cpp(808): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+rend.cpp(809): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+rend.cpp(819): warning C4244: '=': conversion from 'float' to 'GzIntensity', possible loss of data
+rend.cpp(820): warning C4244: '=': conversion from 'float' to 'GzIntensity', possible loss of data
+rend.cpp(821): warning C4244: '=': conversion from 'float' to 'GzIntensity', possible loss of data
+rend.cpp(878): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(879): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(880): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(881): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(882): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(892): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(893): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(894): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(895): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(896): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(906): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(907): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(908): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(909): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(910): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(1002): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+rend.cpp(1003): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+rend.cpp(1004): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+rend.cpp(1005): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+rend.cpp(1006): warning C4305: '=': truncation from 'int' to 'float'
+rend.cpp(1015): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(1016): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(1017): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(1024): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(1025): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(1026): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+rend.cpp(1478): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+rend.cpp(1478): warning C4305: 'initializing': truncation from 'double' to 'float'
+  RotateDlg.cpp
+  ScaleDlg.cpp
+  tex_fun.cpp
+tex_fun.cpp(34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tex_fun.cpp(35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tex_fun.cpp(36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tex_fun.cpp(20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+tex_fun.cpp(25): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+tex_fun.cpp(16): warning C4101: 'j': unreferenced local variable
+tex_fun.cpp(84): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  TranslateDlg.cpp
+  Generating Code...
+  CS580HW5.vcxproj -> C:\Users\spygu\Documents\Kuliah\CSCI580 3-D Graphics and Rendering\TOON - Final\.\Debug\CS580HW5.exe
+  CS580HW5.vcxproj -> .\Debug\CS580HW5.pdb (Full PDB)
